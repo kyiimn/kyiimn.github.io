@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /blog/
+
+Sitemap: https://kyiimn.github.io/blog/sitemap.xml
